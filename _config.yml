@@ -1,0 +1,14 @@
+# metadata
+title: fwaks
+email: fwaks@protonmail.com
+description: >-
+  A blog about covid19
+baseurl: "/"
+url: "https://fwaks.github.io"
+github_username:  fwaks
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
